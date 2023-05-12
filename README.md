@@ -1,1 +1,2 @@
-# qr-code-app
+# REACT PROJECT
+
